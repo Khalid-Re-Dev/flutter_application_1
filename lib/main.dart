@@ -3,7 +3,6 @@ import 'package:flutter_application_1/features/splash/presentation/Splash_View.d
 import 'package:get/get.dart';
 
 void main() async {
-
   runApp(FlutterFruitProject());
 }
 
